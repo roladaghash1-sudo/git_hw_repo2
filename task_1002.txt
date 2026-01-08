@@ -1,0 +1,8 @@
+CommitNumber: 1
+TASK_ID: 1002
+DateTime: 2026-01-08 12:07
+Branch: bugfix-navbar
+Developer: rola
+Description: Fix navbar bug
+AppendedMessage: first run
+----
